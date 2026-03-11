@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=100&lines=PIYUSH+SHRIVASTAV;Frontend+Engineer;Java+%2B+DSA+Specialist" alt="Typing SVG" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=150&section=header&reversal=false&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=120&lines=PIYUSH+SHRIVASTAV;React+Developer;Java+%2B+DSA+Learner" alt="Typing Banner" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20ACCESS&color=7c3aed&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=PROFILE%20ACCESS&color=7c3aed&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Academic-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
 </p>
 
@@ -16,19 +15,19 @@
   </a>
 </div>
 
-<br />
+---
 
 ## 👨‍💻 Professional Profile
 
-I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and solving algorithmic challenges in **Java**.
+I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and optimizing problem-solving logic via **Java DSA**.
 
-- 🏛️ **College:** Samrat Ashok Technological Institute (SATI), Vidisha
+- 🏢 **Institution:** Samrat Ashok Technological Institute (SATI), Vidisha
 - 🎓 **Degree:** B.Tech in IT (Year III)
-- 🎯 **Core Focus:** React.js Architecture & Data Structures (DSA)
+- 🎯 **Current Focus:** Component Architecture in React & Algorithmic efficiency.
 
-<br />
+---
 
-## 🛠️ Technical Inventory
+## 🛠️ Technical Ecosystem
 
 <table width="100%">
   <tr>
@@ -37,22 +36,26 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
       <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚛️ Frontend & Preprocessors</h3>
+      <h3>⚛️ Frontend & Styling</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔧 Developer Workflow</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-## 📈 Development Metrics
+## 📈 Engineering Metrics (Unified Purple Theme)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br />
-
-## 📊 Analytics & Performance
 
 <div align="center">
   <table border="0">
@@ -67,14 +70,18 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
   </table>
 </div>
 
-<br />
-
-## 🐍 Neural Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed" width="100%" />
 </div>
 
-<br />
+---
+
+## 🐍 Neural Journey (Snake Animation)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</div>
+
+---
 
 ## 📫 Secure Connection
 
@@ -87,7 +94,6 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
   </a>
 </div>
 
----
-<div align="center">
+<div align="right">
   <sub>Piyush Shrivastav | SATI Vidisha '27</sub>
 </div>
