@@ -32,12 +32,12 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,js,html" />
+      <h3>🚀 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,js" />
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">⚛️ Frontend & Styling</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css,html" />
     </td>
   </tr>
   <tr>
