@@ -29,20 +29,20 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
 
 ## 🛠️ Technical Ecosystem
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Programming Languages</h3>
+      <h3 align="center">🚀 Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
-    <td width="50%" valign="top">
-      <h3>⚛️ Frontend & Styling</h3>
+    <td align="center" width="50%" valign="top">
+      <h3 align="center">⚛️ Frontend & Styling</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🔧 Developer Workflow</h3>
+    <td align="center" colspan="2" valign="top">
+      <h3 align="center"> 🔧 Developer Workflow</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
     </td>
   </tr>
