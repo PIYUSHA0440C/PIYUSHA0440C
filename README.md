@@ -1,40 +1,62 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+in+Progress;Java+%2B+DSA+Learner;Future+Software+Engineer;Building+Projects+Every+Day&center=true&width=700&height=45">
+Full Stack Developer in Progress • Java + DSA Learner • MERN Stack
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&color=blue&style=flat">
+
+<!-- Self-generated animated SVG -->
+<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="20" y="20" width="460" height="80" rx="10" fill="#0d1117"/>
+
+<text x="40" y="55" fill="#58a6ff" font-size="18" font-family="monospace">
+&lt;code&gt;
+<animate attributeName="opacity" values="0;1" dur="2s" repeatCount="indefinite"/>
+</text>
+
+<text x="40" y="80" fill="#3fb950" font-size="18" font-family="monospace">
+building_projects();
+<animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/>
+</text>
+
+</svg>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&style=flat&color=blue">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-• Engineering student focused on **Full Stack Development**  
-• Currently learning **MERN Stack**  
+• B.Tech **Information Technology** student  
+• Learning **Full Stack Web Development (MERN)**  
 • Practicing **Data Structures & Algorithms using Java**  
-• Building projects to improve **backend and system design skills**
+• Interested in **backend architecture and scalable systems**
 
 ---
 
-## 🎓 Academic Background
+# 🎓 Academic Details
 
-🎓 **Bachelor of Technology (B.Tech)**  
-💻 **Information Technology**
+**Bachelor of Technology – Information Technology**
 
-🏫 **Samrat Ashok Technological Institute (SATI)**  
+🏫 Samrat Ashok Technological Institute (SATI)  
 📍 Vidisha, Madhya Pradesh, India  
-
-📅 **3rd Year Undergraduate**
+📅 3rd Year Undergraduate
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
+
+### Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
@@ -42,85 +64,75 @@
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
 
-### Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-
-### Libraries & Tools
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios)
+### Tools
+![Axios](https://img.shields.io/badge/Axios-purple?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot)
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-• MERN Stack Development  
+• MERN Stack  
 • Advanced Java + DSA  
 • REST API Development  
-• Backend Architecture  
-• System Design Basics
+• Backend System Design
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight">
+
+<img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight"/>
+
 </p>
 
 ---
 
 <!--
-## 📌 Featured Projects
+Future Projects Section
 
-This section will showcase strong projects in the future.
+Uncomment when strong projects are available
 
-Example format:
+## Featured Projects
 
-### Project Name
-Short description of the project.
+Project Name
+Short description
 
 Tech Used:
 React, Node.js, MongoDB
-
-Repository:
-https://github.com/PIYUSHA0440C/project
 -->
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/PIYUSHA0440C)
 
-<a href="https://github.com/PIYUSHA0440C">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/piyush-shrivastav-488bb5301)
 
 ---
