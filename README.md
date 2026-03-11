@@ -1,27 +1,10 @@
 <div align="center">
-  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00dfd8">
-          <animate attributeName="stop-color" values="#00dfd8; #7c3aed; #2563eb; #00dfd8" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#7c3aed">
-          <animate attributeName="stop-color" values="#7c3aed; #2563eb; #00dfd8; #7c3aed" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="50" font-weight="800" fill="url(#gradient)">
-      PIYUSH SHRIVASTAV
-    </text>
-    <text x="50%" y="85%" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="20" font-weight="400" fill="#94a3b8">
-      Frontend Engineer • Java & DSA Specialist
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=120&lines=PIYUSH+SHRIVASTAV;React+Developer;Java+%2B+DSA+Learner" alt="Typing Banner" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20ACCESS&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=PROFILE%20ACCESS&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Academic-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
 </p>
 
 <br />
@@ -36,19 +19,20 @@
 
 ## 👨‍💻 Professional Profile
 
-I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). I specialize in building responsive frontend systems and solving algorithmic challenges in **Java**.
+I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and optimizing problem-solving logic via **Java DSA**.
 
-- 🏛️ **College:** SATI, Vidisha (Year III)
-- 🎯 **Primary Focus:** React architecture and high-performance DSA.
+- 🏢 **Institution:** Samrat Ashok Technological Institute (SATI), Vidisha
+- 🎓 **Degree:** B.Tech in IT (Year III)
+- 🎯 **Current Focus:** Component Architecture in React & Algorithmic efficiency.
 
 ---
 
-## 🛠️ Technical Inventory
+## 🛠️ Technical Ecosystem
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Languages</h3>
+      <h3>🚀 Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
     <td width="50%" valign="top">
@@ -56,11 +40,17 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
       <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔧 Developer Workflow</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📈 Engineering Activity Matrix
+## 📈 Engineering Metrics (Unified Purple Theme)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
@@ -80,11 +70,15 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
   </table>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed" width="100%" />
+</div>
+
 ---
 
-## 🐍 Neural Journey (The Snake)
+## 🐍 Neural Journey (Snake Animation)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
 
 ---
