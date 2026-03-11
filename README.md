@@ -1,29 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=React%20Developer%20|%20Java%20%2B%20DSA%20Learner&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Developer%20|%20Java%20%26%20DSA&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20ACCESS&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-6th%20Semester-0d1117?style=for-the-badge&labelColor=7c3aed" />
+  <img src="https://img.shields.io/badge/Academic-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
 </p>
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-  </a>
-</div>
+## 👨‍💻 Professional Brief
 
-<br />
+I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I am dedicated to mastering responsive web development and solving algorithmic challenges in **Java**.
 
-## 👨‍💻 Engineering Profile
-
-I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and solving complex algorithmic problems.
-
-- 🏛️ **College:** Samrat Ashok Technological Institute (SATI), Vidisha
-- 🎓 **Major:** B.Tech in IT (Year III)
-- 🎯 **Primary Focus:** React Component Architecture and Java DSA Patterns.
+- 🏛️ **College:** SATI, Vidisha
+- 🎓 **Status:** B.Tech IT | 3rd Year
+- 🎯 **Focus:** React.js Architecture & Data Structures (DSA)
 
 <br />
 
@@ -32,25 +24,19 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Programming Languages</h3>
+      <h3>🚀 Languages</h3>
       <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚛️ Frontend & UI</h3>
+      <h3>⚛️ Frontend & Styling</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🔧 Developer Workflow</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
     </td>
   </tr>
 </table>
 
 <br />
 
-## 📈 Engineering Activity Matrix
+## 📈 Engineering Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=github-compact&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
@@ -72,15 +58,11 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
   </table>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed" width="100%" />
-</div>
-
 <br />
 
 ## 🐍 Neural Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Activity Snake" />
+  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br />
@@ -98,5 +80,5 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
 
 ---
 <div align="center">
-  <sub>Piyush Shrivastav | SATI Vidisha '27 | Building the Future.</sub>
+  <sub>Piyush Shrivastav | SATI Vidisha '27</sub>
 </div>
