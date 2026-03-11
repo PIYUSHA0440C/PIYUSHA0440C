@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Developer%20|%20Java%20%2B%20DSA%20Learner&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=React%20Developer%20|%20Java%20%2B%20DSA%20Learner&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Academic-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20ACCESS&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-6th%20Semester-0d1117?style=for-the-badge&labelColor=7c3aed" />
 </p>
 
 <br />
@@ -17,22 +17,22 @@
 
 <br />
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Engineering Profile
 
-I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). I specialize in building responsive frontend systems and am currently strengthening my algorithmic logic through **Data Structures and Algorithms in Java**.
+I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and solving complex algorithmic problems.
 
-* 🏛️ **College:** Samrat Ashok Technological Institute (SATI), Vidisha
-* 🎓 **Current Status:** B.Tech IT | 3rd Year (6th Semester)
-* 🔋 **Experience:** Former IoT Intern at Innovation For You Group.
+- 🏛️ **College:** Samrat Ashok Technological Institute (SATI), Vidisha
+- 🎓 **Major:** B.Tech in IT (Year III)
+- 🎯 **Primary Focus:** React Component Architecture and Java DSA Patterns.
 
 <br />
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Inventory
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Languages & Programming</h3>
+      <h3>🚀 Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
     <td width="50%" valign="top">
@@ -41,27 +41,16 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📟 Hardware / IoT (Internship)</h3>
-      <img src="https://skillicons.dev/icons?i=arduino,cpp" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔧 Workflow & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+    <td colspan="2" valign="top">
+      <h3>🔧 Developer Workflow</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
     </td>
   </tr>
 </table>
 
 <br />
 
-## 📚 Currently Mastering (Learning Roadmap)
-*I am actively expanding my stack with the following technologies:*
-- 🟢 **MERN Stack:** Currently learning MongoDB, Express.js, and Node.js for Full-Stack capability.
-- 📉 **DSA:** Solving LeetCode patterns to master Java-based problem solving.
-
-<br />
-
-## 📈 Engineering Activity
+## 📈 Engineering Activity Matrix
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=github-compact&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
@@ -91,7 +80,7 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
 
 ## 🐍 Neural Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Activity Snake" />
 </div>
 
 <br />
