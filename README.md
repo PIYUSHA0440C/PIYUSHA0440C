@@ -1,105 +1,96 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=B.Tech%20IT%20Student%20|%20MERN%20Stack%20|%20Java%20%2B%20DSA&descAlignY=55&descAlign=50" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+%26+React+Developer;Java+%2B+DSA+Learner;Building+Clean+UIs;Information+Technology+Student&center=true&width=760&height=48" alt="typing">
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Batch-2023--2027-yellow?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&color=blue&style=flat" alt="profile views">
-  <img src="https://img.shields.io/badge/role-Student-informational?style=for-the-badge" alt="role">
-  <img src="https://img.shields.io/badge/status-learning%20React-yellow?style=for-the-badge" alt="status">
-</p>
+<br />
 
----
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  </a>
+</div>
 
-## 🚀 About Me
+<br />
 
-• Engineering student focused on **Software Development** • Currently advancing my **Frontend and React capabilities** • Practicing **Data Structures & Algorithms using Java** • Building interactive, mobile-responsive web interfaces  
+## 👨‍💻 Professional Profile
 
----
+I am a dedicated **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha. Currently in my **3rd Year (6th Semester)**, I am specializing in the **MERN Stack** and **Java + DSA**. I focus on building high-performance, pixel-perfect frontend experiences and solving complex algorithmic challenges.
 
-## 🎓 Academic Background
+- 🎓 **Education:** B.Tech in IT | SATI Vidisha (2023–2027)
+- 🔭 **Currently Working:** Strengthening React architecture and Backend integration.
+- ⚡ **Goal:** Building scalable full-stack applications with clean, maintainable code.
 
-🏫 **Samrat Ashok Technological Institute (SATI)** 📍 Vidisha, Madhya Pradesh, India  
+<br />
 
-🎓 **Bachelor of Technology (B.Tech)** 💻 **Information Technology** 📅 **3rd Year (6th Semester, 2023–2027 Batch)**
+## 🚀 Tech Arsenal
 
----
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,nodejs,express,mongodb,java,git,github,vscode,postman,githubcopilot&perline=8" />
+  </a>
+</div>
 
-## 💻 Tech Stack
+<br />
 
-### Frontend & UI
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+## 🐍 Contribution Activity
 
-### Additional Ecosystem
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
-### Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<br />
 
-### Libraries & Tools
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0c8bff?style=for-the-badge&logo=githubcopilot&logoColor=white)
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6" width="450px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6" width="350px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+<br />
 
 ## 📚 Currently Learning
+- ⚛️ **Advanced React:** State management and component optimization.
+- 🧩 **Java + DSA:** Advanced problem solving for technical placements.
+- 🏗️ **Backend Mastery:** Designing robust RESTful APIs.
 
-• Advanced React patterns and state management  
-• Responsive UI design and clean component architecture  
-• Data Structures and Algorithms in Java  
-• Problem-solving for technical interviews  
+<br />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=tokyonight">
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=tokyonight">
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight">
-</p>
-
----
-
----
+<br />
 
 ## 📫 Connect With Me
 
-<p align="left">
+<div align="left">
+  <a href="https://github.com/PIYUSHA0440C">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/piyush-shrivastav-sati">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:piyushshrivastav@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<a href="https://github.com/PIYUSHA0440C">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-</a>
+---
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR-EMAIL@EXAMPLE.COM">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+<div align="center">
+  <sub>Full Stack Developer | SATI Vidisha '27</sub>
+</div>
