@@ -29,7 +29,7 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
 
 ## 🛠️ Technical Ecosystem
 
-<table align="center" width="100%">
+<table align="center" width="150%">
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Languages</h3>
