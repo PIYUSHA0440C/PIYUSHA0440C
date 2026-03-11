@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Engineer%20|%20Java%20%26%20DSA&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=100&lines=PIYUSH+SHRIVASTAV;Frontend+Engineer;Java+%2B+DSA+Specialist" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=150&section=header&reversal=false&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20TRAFFIC&color=7c3aed&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20ACCESS&color=7c3aed&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Academic-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
 </p>
 
@@ -21,8 +22,8 @@
 
 I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and solving algorithmic challenges in **Java**.
 
-- 🏛️ **College:** SATI, Vidisha
-- 🎓 **Major:** B.Tech in IT (Year III)
+- 🏛️ **College:** Samrat Ashok Technological Institute (SATI), Vidisha
+- 🎓 **Degree:** B.Tech in IT (Year III)
 - 🎯 **Core Focus:** React.js Architecture & Data Structures (DSA)
 
 <br />
@@ -51,7 +52,7 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
 
 <br />
 
-## 📊 Analytics & Insights
+## 📊 Analytics & Performance
 
 <div align="center">
   <table border="0">
@@ -64,10 +65,6 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed" width="100%" />
 </div>
 
 <br />
@@ -92,5 +89,5 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
 
 ---
 <div align="center">
-  <sub>Piyush Shrivastav | SATI Vidisha '27 | Engineering for the Web.</sub>
+  <sub>Piyush Shrivastav | SATI Vidisha '27</sub>
 </div>
