@@ -32,7 +32,7 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Programming Languages</h3>
+      <h3 align="center" style="white-space: nowrap;">🚀 Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
     <td align="center" width="50%" valign="top">
