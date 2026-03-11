@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Developer%20|%20React%20Architect%20|%20Java%20DSA&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Architect%20|%20Java%20%2B%20DSA%20Specialist&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20ACCESS&color=7c3aed&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20TRAFFIC&color=7c3aed&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Academic-3rd%20Year%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
 </p>
 
@@ -11,40 +11,57 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=ocean&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
   </a>
 </div>
 
 <br />
 
-## 🛠️ The Brief
+## 👨‍💻 Professional Overview
 
-I am a **Software Engineering Student** at **Samrat Ashok Technological Institute (SATI)**, Vidisha. Currently in my **3rd Year (6th Semester)**, I specialize in building responsive frontend systems and mastering algorithmic problem-solving in **Java**.
+I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha. Currently in my **6th Semester (Batch 2023–2027)**, I focus on engineering scalable frontend systems and optimizing algorithmic efficiency in **Java**.
 
 - 🏛️ **Institution:** Samrat Ashok Technological Institute (SATI), Vidisha
-- 🎓 **Major:** B.Tech in Information Technology (Batch 2023–2027)
-- 🎯 **Core Focus:** Advanced React patterns, UI Design, and high-performance DSA.
+- 🎓 **Degree:** B.Tech in IT (Year III)
+- 🎯 **Specialization:** React Architecture & Data Structures
 
 <br />
 
-## 🚀 Tech Arsenal
+## 🛠️ Engineering Environment
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,java,git,github,vscode,githubcopilot&theme=dark" alt="skill cloud" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Programming Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,js,html" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚛️ Frontend Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=react" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Styling & Preprocessors</h3>
+      <img src="https://skillicons.dev/icons?i=scss,tailwind,css" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Tools & Workflow</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,githubcopilot,postman" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
 ## 📈 Contribution Activity Matrix
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=dark-purple&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Grid" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br />
 
-## 📊 Development Metrics
+## 📊 Development Analytics
 
 <div align="center">
   <table border="0">
@@ -60,14 +77,14 @@ I am a **Software Engineering Student** at **Samrat Ashok Technological Institut
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=dark&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&hide_border=true" width="100%" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed" width="100%" />
 </div>
 
 <br />
 
 ## 🐍 Neural Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Activity Snake" />
 </div>
 
 <br />
@@ -85,5 +102,5 @@ I am a **Software Engineering Student** at **Samrat Ashok Technological Institut
 
 ---
 <div align="center">
-  <sub>Generated to represent Piyush Shrivastav | B.Tech IT '27 | Building the Future.</sub>
+  <sub>Piyush Shrivastav | B.Tech IT '27 | SATI Vidisha</sub>
 </div>
