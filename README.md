@@ -29,7 +29,7 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
 
 ## 🛠️ Technical Ecosystem
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Languages</h3>
