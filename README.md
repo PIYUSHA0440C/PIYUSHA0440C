@@ -1,29 +1,45 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Piyush%20Shrivastav&fontSize=42&fontAlignY=40&desc=Frontend%20Engineer%20%7C%20Java%20%26%20DSA%20Specialist&descAlignY=62&animation=fadeIn&color=timeGradient&fontColor=ffffff" width="100%" />
+  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00dfd8">
+          <animate attributeName="stop-color" values="#00dfd8; #7c3aed; #2563eb; #00dfd8" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#7c3aed">
+          <animate attributeName="stop-color" values="#7c3aed; #2563eb; #00dfd8; #7c3aed" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="50" font-weight="800" fill="url(#gradient)">
+      PIYUSH SHRIVASTAV
+    </text>
+    <text x="50%" y="85%" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="20" font-weight="400" fill="#94a3b8">
+      Frontend Engineer • Java & DSA Specialist
+    </text>
+  </svg>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-6th-0d1117?style=for-the-badge&labelColor=00dfd8&color=7c3aed" />
-  <img src="https://img.shields.io/badge/Focus-React.js%20%7C%20Java%20DSA-0d1117?style=for-the-badge&labelColor=7c3aed&color=00dfd8" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=SYSTEM%20ACCESS&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
 </p>
 
+<br />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  </a>
 </div>
 
 ---
 
-## 👨‍💻 Profile
+## 👨‍💻 Professional Profile
 
-I’m **Piyush Shrivastav**, a **3rd-year B.Tech Information Technology student** at **Samrat Ashok Technological Institute (SATI), Vidisha**.  
-**Batch:** `2023–2027`  
-**Current Semester:** `6th Semester`
+I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). I specialize in building responsive frontend systems and solving algorithmic challenges in **Java**.
 
-I focus on building modern frontend applications with **React.js** and strengthening problem-solving expertise through **Java and Data Structures & Algorithms**.
-
-- 🎯 Frontend specialization with **React.js**
-- 💡 Strong interest in **Java DSA**
-- 🚀 Expanding toward **full-stack development**
-- 🧠 Building clean, responsive, and scalable user interfaces
+- 🏛️ **College:** SATI, Vidisha (Year III)
+- 🎯 **Primary Focus:** React architecture and high-performance DSA.
 
 ---
 
@@ -33,39 +49,20 @@ I focus on building modern frontend applications with **React.js** and strengthe
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,js,html&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚛️ Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🧩 Workflow</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+      <h3>⚛️ Frontend & Styling</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🗺️ Learning Path
-
-Currently expanding from frontend engineering into the **MERN stack** to develop complete end-to-end applications.
-
-- 🌱 **MongoDB**
-- ⚙️ **Express.js**
-- 🔗 **Node.js**
-
-This roadmap complements my frontend foundation and supports my transition toward **full-stack development**.
-
----
-
-## 📈 Engineering Activity
-
+## 📈 Engineering Activity Matrix
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=00dfd8&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br />
@@ -74,10 +71,10 @@ This roadmap complements my frontend foundation and supports my transition towar
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=00dfd8&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=true" width="450px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=transparent&title_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=transparent&title_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=true" width="350px" />
       </td>
     </tr>
   </table>
@@ -85,27 +82,24 @@ This roadmap complements my frontend foundation and supports my transition towar
 
 ---
 
-## 🐍 Contribution Snake
-
+## 🐍 Neural Journey (The Snake)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-## 📫 Connect
+## 📫 Secure Connection
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/PIYUSHA0440C">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/piyush-shrivastav-488bb5301">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
----
-
-<div align="center">
-  <sub><b>Piyush Shrivastav</b> • Frontend Engineer • Java & DSA Specialist • SATI Vidisha</sub>
+<div align="right">
+  <sub>Piyush Shrivastav | SATI Vidisha '27</sub>
 </div>
