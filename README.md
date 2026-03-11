@@ -1,22 +1,5 @@
 <div align="center">
-  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00dfd8">
-          <animate attributeName="stop-color" values="#00dfd8; #7c3aed; #2563eb; #00dfd8" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#7c3aed">
-          <animate attributeName="stop-color" values="#7c3aed; #2563eb; #00dfd8; #7c3aed" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="50" font-weight="800" fill="url(#gradient)">
-      PIYUSH SHRIVASTAV
-    </text>
-    <text x="50%" y="85%" text-anchor="middle" font-family="Segoe UI, Roboto, sans-serif" font-size="20" font-weight="400" fill="#94a3b8">
-      Frontend Engineer • Java & DSA Specialist
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Piyush%20Shrivastav&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Engineer%20|%20Java%20%26%20DSA&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
@@ -32,23 +15,24 @@
   </a>
 </div>
 
----
+<br />
 
 ## 👨‍💻 Professional Profile
 
-I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). I specialize in building responsive frontend systems and solving algorithmic challenges in **Java**.
+I am an **Information Technology** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I focus on building responsive frontend systems and solving algorithmic challenges in **Java**.
 
 - 🏛️ **College:** SATI, Vidisha (Year III)
-- 🎯 **Primary Focus:** React architecture and high-performance DSA.
+- 🎓 **Degree:** B.Tech in IT
+- 🎯 **Core Focus:** React.js Architecture & Data Structures (DSA)
 
----
+<br />
 
 ## 🛠️ Technical Inventory
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Languages</h3>
+      <h3>🚀 Programming Languages</h3>
       <img src="https://skillicons.dev/icons?i=java,js,html" />
     </td>
     <td width="50%" valign="top">
@@ -58,14 +42,16 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
   </tr>
 </table>
 
----
+<br />
 
-## 📈 Engineering Activity Matrix
+## 📈 Development Metrics
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br />
+
+## 📊 Analytics & Insights
 
 <div align="center">
   <table border="0">
@@ -80,14 +66,18 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
   </table>
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed" width="100%" />
+</div>
 
-## 🐍 Neural Journey (The Snake)
+<br />
+
+## 🐍 Neural Journey
 <div align="center">
   <img src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
----
+<br />
 
 ## 📫 Secure Connection
 
@@ -100,6 +90,7 @@ I am an **Information Technology** student at **Samrat Ashok Technological Insti
   </a>
 </div>
 
-<div align="right">
+---
+<div align="center">
   <sub>Piyush Shrivastav | SATI Vidisha '27</sub>
 </div>
