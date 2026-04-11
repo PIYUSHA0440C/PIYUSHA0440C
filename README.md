@@ -1,110 +1,124 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=120&lines=PIYUSH+SHRIVASTAV;React+Developer;Java+%2B+DSA+Learner" alt="Typing Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Piyush%20Shrivastav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Developer%20%7C%20Java%20%2B%20DSA%20Learner&descAlignY=55&descAlign=50" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=60&lines=Building+Responsive+Frontend+Systems;Solving+Problems+with+Java+%2B+DSA;B.Tech+IT+%40+SATI+Vidisha+%E2%80%A2+2027" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=PROFILE%20ACCESS&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Academic-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
+  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/6th%20Semester-B.Tech%20IT-7c3aed?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Semester" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-0d9488?style=for-the-badge&logo=handshake&logoColor=white" alt="Open To Work" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```java
+public class PiyushShrivastav {
+
+    String name       = "Piyush Shrivastav";
+    String institution = "SATI Vidisha (2023–2027)";
+    String degree     = "B.Tech — Information Technology";
+    String semester   = "6th Semester";
+
+    String[] currentFocus = {
+        "Component Architecture in React",
+        "Data Structures & Algorithms in Java",
+        "Responsive UI Systems"
+    };
+
+    String  location = "Vidisha, Madhya Pradesh 🇮🇳";
+    boolean openToWork = true;
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+
+### Frontend & Styling
+<img src="https://skillicons.dev/icons?i=react,tailwind,scss,bootstrap" />
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&count_private=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&border_color=7c3aed&bg_color=0d1117&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=tokyonight&title_color=7c3aed&border_color=7c3aed&bg_color=0d1117&hide_border=false" width="39%" alt="Top Languages" />
+</div>
+
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&border=7c3aed&stroke=7c3aed&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 👨‍💻 Professional Profile
-
-I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and optimizing problem-solving logic via **Java DSA**.
-
-- 🏢 **Institution:** Samrat Ashok Technological Institute (SATI), Vidisha
-- 🎓 **Degree:** B.Tech in IT (Year III)
-- 🎯 **Current Focus:** Component Architecture in React & Algorithmic efficiency.
-
----
-
-## 🛠️ Technical Ecosystem
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🚀 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,js" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>⚛️ Frontend & Styling</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css,html" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top">
-      <h3>🔧 Developer Workflow</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Engineering Metrics (Unified Purple Theme)
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <table border="0" cellpadding="8">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=true" width="450px" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=transparent&title_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=true" width="350px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=7c3aed" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🐍 Neural Journey (Snake Animation)
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake" src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
-## 📫 Secure Connection
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://github.com/PIYUSHA0440C">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/piyush-shrivastav-488bb5301">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:piyusha0440c@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" alt="Footer Wave" />
 </div>
 
-<div align="right">
-  <sub>Piyush Shrivastav | SATI Vidisha '27</sub>
+<div align="center">
+  <sub>⚡ Piyush Shrivastav &nbsp;•&nbsp; SATI Vidisha '27 &nbsp;•&nbsp; Made with ❤️</sub>
 </div>
