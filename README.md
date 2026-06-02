@@ -83,7 +83,7 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
   </picture>
 </div>
 
---
+<hr/>
 
 <div align="center">
   <a href="https://github.com/PIYUSHA0440C">
