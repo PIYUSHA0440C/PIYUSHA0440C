@@ -46,9 +46,7 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
   </tr>
 </table>
 
----
-
-## 📈 Engineering Metrics (Unified Purple Theme)
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
