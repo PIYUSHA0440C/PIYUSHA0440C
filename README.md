@@ -73,7 +73,7 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
   <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=7c3aed" width="100%" alt="GitHub Streak" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <picture>
@@ -83,7 +83,7 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
   </picture>
 </div>
 
-<hr/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/PIYUSHA0440C">
