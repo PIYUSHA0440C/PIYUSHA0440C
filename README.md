@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
----
+<br/>
 
 ## 👨‍💻 Professional Profile
 
@@ -23,7 +23,7 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
 - 🎓 **Degree:** B.Tech in IT (Year III)
 - 🎯 **Current Focus:** Component Architecture in React & Algorithmic efficiency.
 
----
+<br/>
 
 ## 🛠️ Technical Ecosystem
 
