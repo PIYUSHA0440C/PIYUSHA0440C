@@ -75,8 +75,6 @@ I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technologic
 
 ---
 
-## 🐍 Neural Journey (Snake Animation)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" />
