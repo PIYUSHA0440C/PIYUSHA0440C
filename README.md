@@ -1,104 +1,148 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=120&lines=PIYUSH+SHRIVASTAV;React+Developer;Java+%2B+DSA+Learner" alt="Typing Banner" />
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PIYUSHA0440C&label=PROFILE%20ACCESS&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Academic-6th%20Sem%20IT-0d1117?style=for-the-badge&labelColor=7c3aed" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Piyush%20Shrivastav&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🎨%20Frontend%20Dev%20%7C%20⚛%20React%20Craftsman%20%7C%20🧠%20DSA%20Thinker&descAlignY=60&descSize=17&descColor=A2D9FF" width="100%"/>
 
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Crafting+pixel-perfect+interfaces+%F0%9F%8E%A8;Cracking+DSA+one+Java+solution+at+a+time+%E2%98%95;B.Tech+IT+%40+SATI+Vidisha+%7C+6th+Semester+%F0%9F%8E%93;Open+to+Internships+%7C+Collabs+%7C+Open+Source+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PIYUSHA0440C&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+![Profile Views](https://komarev.com/ghpvc/?username=piyusha0440c&style=flat-square&color=58a6ff&label=👁%20Profile+Views)
+
 </div>
 
 <br/>
 
-## 👨‍💻 Professional Profile
 
-I am a **B.Tech (Information Technology)** student at **Samrat Ashok Technological Institute (SATI)**, Vidisha (2023–2027). Currently in my **6th Semester**, I specialize in building responsive frontend systems and optimizing problem-solving logic via **Java DSA**.
 
-- 🏢 **Institution:** Samrat Ashok Technological Institute (SATI), Vidisha
-- 🎓 **Degree:** B.Tech in IT (Year III)
-- 🎯 **Current Focus:** Component Architecture in React & Algorithmic efficiency.
+## 👋 Hey there!
 
-<br/>
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top">
 
-## 🛠️ Technical Ecosystem
+### I'm Piyush — a developer who obsesses over clean UIs and sharp algorithms.
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🚀 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=java,js" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>⚛️ Frontend & Styling</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,scss,css,html" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top">
-      <h3>🔧 Developer Workflow</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-    </td>
-  </tr>
+- 🏫 **B.Tech IT** @ SATI, Vidisha `(2023–27)` · 6th Sem
+- 🎯 **Core Focus** - React Architecture + Algorithmic Thinking
+- 🔨 **Building** - A portfolio that does the talking
+- 🌱 **Sharpening** - Advanced Hooks · TS Generics · Trees & Graphs
+- 💼 **Open To** - Internships · Collabs · Open Source
+- 📍 **From** - Vidisha, Madhya Pradesh 🇮🇳
+- ⚡ **Fact** - My CSS is pixel-perfect. My commits are proof.
+
+</td>
+<td width="45%" align="center" valign="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" alt="Coding GIF"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHA0440C&theme=tokyonight&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
 
-<br />
+
+## 💻 Tech Arsenal
+
+<br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,tailwind,sass&perline=9" alt="Frontend"/>
+
+<br/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=9" alt="Backend"/>
+
+<br/>
+
+### 🧠 DSA — Problem Solving in Java
+
+<img src="https://skillicons.dev/icons?i=java&perline=9" alt="Java DSA"/>
+
+```
+  Topics: Arrays · Linked Lists · Stacks · Queues · Trees · Graphs · Dynamic Programming
+```
+
+[![LeetCode](https://img.shields.io/badge/Grind_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/piyusha0440c)
+
+<br/>
+
+### 🔧 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,ai&perline=9" alt="Tools"/>
+
+<br/>
+
+
+
+## 🚧 Building in Public
+
+> *Portfolio is actively being cooked — something exciting is dropping soon.*
+
+```
+  ▸  Project 001  ── React · TypeScript · Tailwind      [████░░░░░░░░]  35%  🔨 In Dev
+  ▸  Project 002  ── Node.js · Express · MongoDB         [██░░░░░░░░░░]  20%  🔨 In Dev
+  ▸  Project 003  ── Java DSA Visualizer                 [█░░░░░░░░░░░]  10%  📐 Planning
+```
+
+> ⭐ Drop a star · 🔔 Watch this profile — drops are incoming!
+
+<br/>
+
+
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0" cellpadding="8">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHA0440C&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=true" width="450px" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHA0440C&layout=compact&theme=transparent&title_color=7c3aed&text_color=ffffff&bg_color=0d1117&hide_border=true" width="350px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PIYUSHA0440C&theme=tokyonight&background=0d1117&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=7c3aed" width="100%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=piyusha0440c&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyusha0440c&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyusha0440c&theme=radical&hide_border=true" height="160" alt="Streak"/>
+
 </div>
 
 <br/>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyusha0440c&theme=react-dark&hide_border=true&area=true&area_color=58A6FF" alt="Activity Graph"/>
+
+<br/>
+
+
+
+## 🏆 Trophy Cabinet
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake" src="https://raw.githubusercontent.com/PIYUSHA0440C/PIYUSHA0440C/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=piyusha0440c&theme=radical&no-frame=true&row=1&column=7&margin-h=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/PIYUSHA0440C">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/piyush-shrivastav-488bb5301">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
 
-<br />
+
+## 📡 Let's Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" alt="Footer Wave" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-shrivastav-488bb5301/)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shrivastav4288)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/piyusha0440c)
+
+<br/>
+
+<sub>Made with 💙 in Vidisha, MP · <b>Piyush Shrivastav</b></sub>
+
 </div>
 
-<div align="right">
-  <sub>Piyush Shrivastav | SATI Vidisha '27</sub>
-</div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=130&section=footer" width="100%"/>
