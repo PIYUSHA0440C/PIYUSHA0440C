@@ -18,7 +18,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### I'm Piyush — a developer who obsesses over clean UIs and sharp algorithms.
+### I'm Piyush - a developer who obsesses over clean UIs and sharp algorithms.
 
 - 🏫 **B.Tech IT** @ SATI, Vidisha `(2023–27)` · 6th Sem
 - 🎯 **Core Focus** - React Architecture + Algorithmic Thinking
