@@ -62,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=java&perline=9" alt="Java DSA"/>
 
 ```
-  Topics: Arrays · Linked Lists · Stacks · Queues · Trees · Graphs · Dynamic Programming
+  Topics: Arrays · Linked Lists · Stacks · Queues · Trees
 ```
 
 [![LeetCode](https://img.shields.io/badge/Grind_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/piyusha0440c)
