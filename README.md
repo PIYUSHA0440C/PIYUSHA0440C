@@ -109,9 +109,6 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyusha0440c&theme=react-dark&hide_border=true&area=true&area_color=58A6FF" alt="Activity Graph"/>
-
-<br/>
 
 
 
