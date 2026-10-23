@@ -115,16 +115,6 @@
 
 
 
-## 🏆 Trophy Cabinet
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=piyusha0440c&theme=radical&no-frame=true&row=1&column=7&margin-h=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
 
 
 ## 📡 Let's Connect
