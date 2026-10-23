@@ -77,22 +77,6 @@
 
 
 
-## 🚧 Building in Public
-
-> *Portfolio is actively being cooked — something exciting is dropping soon.*
-
-```
-  ▸  Project 001  ── React · TypeScript · Tailwind      [████░░░░░░░░]  35%  🔨 In Dev
-  ▸  Project 002  ── Node.js · Express · MongoDB         [██░░░░░░░░░░]  20%  🔨 In Dev
-  ▸  Project 003  ── Java DSA Visualizer                 [█░░░░░░░░░░░]  10%  📐 Planning
-```
-
-> ⭐ Drop a star · 🔔 Watch this profile — drops are incoming!
-
-<br/>
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
