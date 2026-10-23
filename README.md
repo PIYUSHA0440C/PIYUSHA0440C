@@ -57,7 +57,7 @@
 
 <br/>
 
-### 🧠 DSA — Problem Solving in Java
+### 🧠 DSA - Problem Solving in Java
 
 <img src="https://skillicons.dev/icons?i=java&perline=9" alt="Java DSA"/>
 
