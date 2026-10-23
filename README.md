@@ -47,7 +47,7 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js, react,tailwind,sass&perline=9" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass&perline=9" alt="Frontend"/>
 
 <br/>
 
